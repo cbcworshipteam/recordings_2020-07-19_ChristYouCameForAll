@@ -1,0 +1,339 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Mixdown_data" version="1.3.0" audacityversion="2.3.0" sel0="304.0264548326" sel1="304.0264548326" vpos="0" h="0.8804854740" zoom="19.3075303372" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TimeSignature" value="4/4"/>
+	</tags>
+	<wavetrack name="Mixdown" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="13407567">
+				<waveblock start="0">
+					<simpleblockfile filename="e0800607.au" len="137661" min="-0.234222" max="0.395447" rms="0.070181"/>
+				</waveblock>
+				<waveblock start="137661">
+					<simpleblockfile filename="e0800fab.au" len="137662" min="-0.159943" max="0.21463" rms="0.035282"/>
+				</waveblock>
+				<waveblock start="275323">
+					<pcmaliasblockfile summaryfile="e0808add.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.319916" max="0.194092" rms="0.037872"/>
+				</waveblock>
+				<waveblock start="537467">
+					<pcmaliasblockfile summaryfile="e0808c37.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.414459" max="0.540222" rms="0.066469"/>
+				</waveblock>
+				<waveblock start="799611">
+					<pcmaliasblockfile summaryfile="e0808684.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.612396" max="0.36795" rms="0.066541"/>
+				</waveblock>
+				<waveblock start="1061755">
+					<pcmaliasblockfile summaryfile="e0808949.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.455505" max="0.451569" rms="0.082086"/>
+				</waveblock>
+				<waveblock start="1323899">
+					<pcmaliasblockfile summaryfile="e080836a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.384338" max="0.523956" rms="0.06907"/>
+				</waveblock>
+				<waveblock start="1586043">
+					<pcmaliasblockfile summaryfile="e0808548.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.497803" max="0.633453" rms="0.085598"/>
+				</waveblock>
+				<waveblock start="1848187">
+					<pcmaliasblockfile summaryfile="e0808cc5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.566193" max="0.590454" rms="0.087948"/>
+				</waveblock>
+				<waveblock start="2110331">
+					<pcmaliasblockfile summaryfile="e080890b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.512329" max="0.534363" rms="0.091878"/>
+				</waveblock>
+				<waveblock start="2372475">
+					<pcmaliasblockfile summaryfile="e0808ab1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2621440" aliaslen="262144" aliaschannel="0" min="-0.421875" max="0.31958" rms="0.073638"/>
+				</waveblock>
+				<waveblock start="2634619">
+					<pcmaliasblockfile summaryfile="e080843a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2883584" aliaslen="262144" aliaschannel="0" min="-0.864044" max="0.781982" rms="0.136162"/>
+				</waveblock>
+				<waveblock start="2896763">
+					<pcmaliasblockfile summaryfile="e080867b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3145728" aliaslen="262144" aliaschannel="0" min="-0.841003" max="0.935486" rms="0.144512"/>
+				</waveblock>
+				<waveblock start="3158907">
+					<pcmaliasblockfile summaryfile="e080897b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.756409" max="0.566345" rms="0.125691"/>
+				</waveblock>
+				<waveblock start="3421051">
+					<pcmaliasblockfile summaryfile="e0808e7b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3670016" aliaslen="262144" aliaschannel="0" min="-0.671082" max="0.607971" rms="0.129672"/>
+				</waveblock>
+				<waveblock start="3683195">
+					<pcmaliasblockfile summaryfile="e080852c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.777008" max="0.755157" rms="0.144696"/>
+				</waveblock>
+				<waveblock start="3945339">
+					<pcmaliasblockfile summaryfile="e08086e0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4194304" aliaslen="262144" aliaschannel="0" min="-0.675964" max="0.768799" rms="0.087602"/>
+				</waveblock>
+				<waveblock start="4207483">
+					<pcmaliasblockfile summaryfile="e0808850.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.755341" max="0.713593" rms="0.136294"/>
+				</waveblock>
+				<waveblock start="4469627">
+					<pcmaliasblockfile summaryfile="e0808fd2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4718592" aliaslen="262144" aliaschannel="0" min="-0.925507" max="0.878693" rms="0.16561"/>
+				</waveblock>
+				<waveblock start="4731771">
+					<pcmaliasblockfile summaryfile="e080841e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.88974" max="0.827667" rms="0.141885"/>
+				</waveblock>
+				<waveblock start="4993915">
+					<pcmaliasblockfile summaryfile="e0808192.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="5242880" aliaslen="262144" aliaschannel="0" min="-0.982758" max="0.894867" rms="0.183104"/>
+				</waveblock>
+				<waveblock start="5256059">
+					<pcmaliasblockfile summaryfile="e0808ab7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-1.0" max="0.999969" rms="0.204644"/>
+				</waveblock>
+				<waveblock start="5518203">
+					<pcmaliasblockfile summaryfile="e08086ec.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="5767168" aliaslen="262144" aliaschannel="0" min="-0.820801" max="0.815125" rms="0.174468"/>
+				</waveblock>
+				<waveblock start="5780347">
+					<pcmaliasblockfile summaryfile="e080818d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.900635" max="0.825134" rms="0.198407"/>
+				</waveblock>
+				<waveblock start="6042491">
+					<pcmaliasblockfile summaryfile="e08086a2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6291456" aliaslen="262144" aliaschannel="0" min="-1.0" max="0.999969" rms="0.192576"/>
+				</waveblock>
+				<waveblock start="6304635">
+					<pcmaliasblockfile summaryfile="e080889b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.992981" max="0.999969" rms="0.200182"/>
+				</waveblock>
+				<waveblock start="6566779">
+					<pcmaliasblockfile summaryfile="e0808364.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6815744" aliaslen="262144" aliaschannel="0" min="-0.677643" max="0.59613" rms="0.125726"/>
+				</waveblock>
+				<waveblock start="6828923">
+					<pcmaliasblockfile summaryfile="e0808316.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.603149" max="0.56781" rms="0.098367"/>
+				</waveblock>
+				<waveblock start="7091067">
+					<pcmaliasblockfile summaryfile="e08089a0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.882507" max="0.72403" rms="0.103323"/>
+				</waveblock>
+				<waveblock start="7353211">
+					<pcmaliasblockfile summaryfile="e0808b6e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.7901" max="0.681763" rms="0.13571"/>
+				</waveblock>
+				<waveblock start="7615355">
+					<pcmaliasblockfile summaryfile="e08083b7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.812042" max="0.805847" rms="0.125274"/>
+				</waveblock>
+				<waveblock start="7877499">
+					<pcmaliasblockfile summaryfile="e0808cb9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-1.0" max="0.777374" rms="0.159996"/>
+				</waveblock>
+				<waveblock start="8139643">
+					<pcmaliasblockfile summaryfile="e08088dc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8388608" aliaslen="262144" aliaschannel="0" min="-0.853424" max="0.925323" rms="0.168782"/>
+				</waveblock>
+				<waveblock start="8401787">
+					<pcmaliasblockfile summaryfile="e08088a6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.838684" max="0.905823" rms="0.174643"/>
+				</waveblock>
+				<waveblock start="8663931">
+					<pcmaliasblockfile summaryfile="e08087f6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8912896" aliaslen="262144" aliaschannel="0" min="-1.0" max="0.999969" rms="0.179966"/>
+				</waveblock>
+				<waveblock start="8926075">
+					<pcmaliasblockfile summaryfile="e08084ae.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.794495" max="0.830261" rms="0.147938"/>
+				</waveblock>
+				<waveblock start="9188219">
+					<pcmaliasblockfile summaryfile="e0808c3e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9437184" aliaslen="262144" aliaschannel="0" min="-0.724915" max="0.741669" rms="0.13249"/>
+				</waveblock>
+				<waveblock start="9450363">
+					<pcmaliasblockfile summaryfile="e0808be2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.690765" max="0.789764" rms="0.145656"/>
+				</waveblock>
+				<waveblock start="9712507">
+					<pcmaliasblockfile summaryfile="e080870d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9961472" aliaslen="262144" aliaschannel="0" min="-0.9599" max="0.945129" rms="0.162332"/>
+				</waveblock>
+				<waveblock start="9974651">
+					<pcmaliasblockfile summaryfile="e080821f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="10223616" aliaslen="262144" aliaschannel="0" min="-1.0" max="0.999969" rms="0.206841"/>
+				</waveblock>
+				<waveblock start="10236795">
+					<pcmaliasblockfile summaryfile="e0808a86.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="10485760" aliaslen="262144" aliaschannel="0" min="-0.830292" max="0.979919" rms="0.173227"/>
+				</waveblock>
+				<waveblock start="10498939">
+					<pcmaliasblockfile summaryfile="e0808747.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="10747904" aliaslen="262144" aliaschannel="0" min="-0.947937" max="0.927979" rms="0.183643"/>
+				</waveblock>
+				<waveblock start="10761083">
+					<pcmaliasblockfile summaryfile="e0808a8e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11010048" aliaslen="262144" aliaschannel="0" min="-0.867462" max="0.833282" rms="0.179498"/>
+				</waveblock>
+				<waveblock start="11023227">
+					<pcmaliasblockfile summaryfile="e0808795.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11272192" aliaslen="262144" aliaschannel="0" min="-0.830414" max="0.885101" rms="0.179891"/>
+				</waveblock>
+				<waveblock start="11285371">
+					<pcmaliasblockfile summaryfile="e0808c49.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11534336" aliaslen="262144" aliaschannel="0" min="-0.904358" max="0.921722" rms="0.148759"/>
+				</waveblock>
+				<waveblock start="11547515">
+					<pcmaliasblockfile summaryfile="e08081a1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11796480" aliaslen="262144" aliaschannel="0" min="-0.47348" max="0.36795" rms="0.078223"/>
+				</waveblock>
+				<waveblock start="11809659">
+					<pcmaliasblockfile summaryfile="e0808576.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12058624" aliaslen="262144" aliaschannel="0" min="-0.550049" max="0.602264" rms="0.09216"/>
+				</waveblock>
+				<waveblock start="12071803">
+					<pcmaliasblockfile summaryfile="e0808e95.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12320768" aliaslen="262144" aliaschannel="0" min="-0.791321" max="0.619507" rms="0.106617"/>
+				</waveblock>
+				<waveblock start="12333947">
+					<pcmaliasblockfile summaryfile="e0808a2e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12582912" aliaslen="262144" aliaschannel="0" min="-0.50235" max="0.438416" rms="0.09132"/>
+				</waveblock>
+				<waveblock start="12596091">
+					<pcmaliasblockfile summaryfile="e0808225.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12845056" aliaslen="262144" aliaschannel="0" min="-0.407501" max="0.392914" rms="0.070855"/>
+				</waveblock>
+				<waveblock start="12858235">
+					<pcmaliasblockfile summaryfile="e08080b9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="13107200" aliaslen="262144" aliaschannel="0" min="-0.37735" max="0.368286" rms="0.060943"/>
+				</waveblock>
+				<waveblock start="13120379">
+					<simpleblockfile filename="e0800fa3.au" len="143594" min="-0.309631" max="0.287567" rms="0.054328"/>
+				</waveblock>
+				<waveblock start="13263973">
+					<simpleblockfile filename="e0800f7c.au" len="143594" min="-0.099884" max="0.092834" rms="0.019398"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Mixdown" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="13407567">
+				<waveblock start="0">
+					<simpleblockfile filename="e08005a1.au" len="137661" min="-0.209351" max="0.421631" rms="0.066813"/>
+				</waveblock>
+				<waveblock start="137661">
+					<simpleblockfile filename="e0800839.au" len="137662" min="-0.123993" max="0.111023" rms="0.032751"/>
+				</waveblock>
+				<waveblock start="275323">
+					<pcmaliasblockfile summaryfile="e08087b5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.321747" max="0.185608" rms="0.036294"/>
+				</waveblock>
+				<waveblock start="537467">
+					<pcmaliasblockfile summaryfile="e0808758.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.387787" max="0.437225" rms="0.064965"/>
+				</waveblock>
+				<waveblock start="799611">
+					<pcmaliasblockfile summaryfile="e0808976.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.530273" max="0.392181" rms="0.062683"/>
+				</waveblock>
+				<waveblock start="1061755">
+					<pcmaliasblockfile summaryfile="e08089ad.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.460815" max="0.455688" rms="0.075191"/>
+				</waveblock>
+				<waveblock start="1323899">
+					<pcmaliasblockfile summaryfile="e0808dff.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.326508" max="0.289917" rms="0.059127"/>
+				</waveblock>
+				<waveblock start="1586043">
+					<pcmaliasblockfile summaryfile="e080870b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.500397" max="0.479553" rms="0.077265"/>
+				</waveblock>
+				<waveblock start="1848187">
+					<pcmaliasblockfile summaryfile="e0808cf7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.530334" max="0.45752" rms="0.084595"/>
+				</waveblock>
+				<waveblock start="2110331">
+					<pcmaliasblockfile summaryfile="e080846c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2359296" aliaslen="262144" aliaschannel="1" min="-0.568542" max="0.504059" rms="0.090933"/>
+				</waveblock>
+				<waveblock start="2372475">
+					<pcmaliasblockfile summaryfile="e08080ee.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2621440" aliaslen="262144" aliaschannel="1" min="-0.410889" max="0.309021" rms="0.071452"/>
+				</waveblock>
+				<waveblock start="2634619">
+					<pcmaliasblockfile summaryfile="e0808cc4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="2883584" aliaslen="262144" aliaschannel="1" min="-0.847198" max="0.678162" rms="0.129941"/>
+				</waveblock>
+				<waveblock start="2896763">
+					<pcmaliasblockfile summaryfile="e0808782.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3145728" aliaslen="262144" aliaschannel="1" min="-0.696259" max="0.757751" rms="0.139397"/>
+				</waveblock>
+				<waveblock start="3158907">
+					<pcmaliasblockfile summaryfile="e0808dba.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3407872" aliaslen="262144" aliaschannel="1" min="-0.591522" max="0.60141" rms="0.118796"/>
+				</waveblock>
+				<waveblock start="3421051">
+					<pcmaliasblockfile summaryfile="e08087c5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3670016" aliaslen="262144" aliaschannel="1" min="-0.644775" max="0.617065" rms="0.124339"/>
+				</waveblock>
+				<waveblock start="3683195">
+					<pcmaliasblockfile summaryfile="e0808561.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="1" min="-0.721802" max="0.722473" rms="0.140877"/>
+				</waveblock>
+				<waveblock start="3945339">
+					<pcmaliasblockfile summaryfile="e08081f4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4194304" aliaslen="262144" aliaschannel="1" min="-0.561554" max="0.691864" rms="0.08488"/>
+				</waveblock>
+				<waveblock start="4207483">
+					<pcmaliasblockfile summaryfile="e0808384.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="1" min="-0.690491" max="0.663361" rms="0.130161"/>
+				</waveblock>
+				<waveblock start="4469627">
+					<pcmaliasblockfile summaryfile="e0808ef2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4718592" aliaslen="262144" aliaschannel="1" min="-0.953369" max="0.931061" rms="0.152089"/>
+				</waveblock>
+				<waveblock start="4731771">
+					<pcmaliasblockfile summaryfile="e08088f1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="1" min="-0.825531" max="0.830322" rms="0.136323"/>
+				</waveblock>
+				<waveblock start="4993915">
+					<pcmaliasblockfile summaryfile="e0808e05.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="5242880" aliaslen="262144" aliaschannel="1" min="-0.839844" max="0.961823" rms="0.171233"/>
+				</waveblock>
+				<waveblock start="5256059">
+					<pcmaliasblockfile summaryfile="e0808752.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="1" min="-1.0" max="0.999969" rms="0.19575"/>
+				</waveblock>
+				<waveblock start="5518203">
+					<pcmaliasblockfile summaryfile="e0808767.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="5767168" aliaslen="262144" aliaschannel="1" min="-0.844269" max="0.979218" rms="0.168324"/>
+				</waveblock>
+				<waveblock start="5780347">
+					<pcmaliasblockfile summaryfile="e0808c0a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="1" min="-0.890411" max="0.822235" rms="0.184987"/>
+				</waveblock>
+				<waveblock start="6042491">
+					<pcmaliasblockfile summaryfile="e0808213.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6291456" aliaslen="262144" aliaschannel="1" min="-1.0" max="0.999969" rms="0.178391"/>
+				</waveblock>
+				<waveblock start="6304635">
+					<pcmaliasblockfile summaryfile="e0808437.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6553600" aliaslen="262144" aliaschannel="1" min="-1.0" max="0.962006" rms="0.189581"/>
+				</waveblock>
+				<waveblock start="6566779">
+					<pcmaliasblockfile summaryfile="e0808c07.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="6815744" aliaslen="262144" aliaschannel="1" min="-0.505524" max="0.611755" rms="0.114493"/>
+				</waveblock>
+				<waveblock start="6828923">
+					<pcmaliasblockfile summaryfile="e08088a3.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="1" min="-0.621704" max="0.582581" rms="0.094811"/>
+				</waveblock>
+				<waveblock start="7091067">
+					<pcmaliasblockfile summaryfile="e0808110.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7340032" aliaslen="262144" aliaschannel="1" min="-0.887665" max="0.659882" rms="0.102255"/>
+				</waveblock>
+				<waveblock start="7353211">
+					<pcmaliasblockfile summaryfile="e080854c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7602176" aliaslen="262144" aliaschannel="1" min="-0.748108" max="0.667816" rms="0.131603"/>
+				</waveblock>
+				<waveblock start="7615355">
+					<pcmaliasblockfile summaryfile="e08087a2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="7864320" aliaslen="262144" aliaschannel="1" min="-0.846619" max="0.746948" rms="0.107307"/>
+				</waveblock>
+				<waveblock start="7877499">
+					<pcmaliasblockfile summaryfile="e08087cc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8126464" aliaslen="262144" aliaschannel="1" min="-0.91391" max="0.847137" rms="0.151635"/>
+				</waveblock>
+				<waveblock start="8139643">
+					<pcmaliasblockfile summaryfile="e08082ef.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8388608" aliaslen="262144" aliaschannel="1" min="-0.875336" max="0.999969" rms="0.159821"/>
+				</waveblock>
+				<waveblock start="8401787">
+					<pcmaliasblockfile summaryfile="e0808070.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="1" min="-0.780609" max="0.845093" rms="0.16756"/>
+				</waveblock>
+				<waveblock start="8663931">
+					<pcmaliasblockfile summaryfile="e0808fb2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="8912896" aliaslen="262144" aliaschannel="1" min="-0.938019" max="0.999969" rms="0.169077"/>
+				</waveblock>
+				<waveblock start="8926075">
+					<pcmaliasblockfile summaryfile="e08083ce.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9175040" aliaslen="262144" aliaschannel="1" min="-0.743774" max="0.756866" rms="0.141115"/>
+				</waveblock>
+				<waveblock start="9188219">
+					<pcmaliasblockfile summaryfile="e0808954.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9437184" aliaslen="262144" aliaschannel="1" min="-0.644592" max="0.784912" rms="0.123561"/>
+				</waveblock>
+				<waveblock start="9450363">
+					<pcmaliasblockfile summaryfile="e0808edd.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9699328" aliaslen="262144" aliaschannel="1" min="-0.674072" max="0.593262" rms="0.132935"/>
+				</waveblock>
+				<waveblock start="9712507">
+					<pcmaliasblockfile summaryfile="e08082fc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="9961472" aliaslen="262144" aliaschannel="1" min="-0.949799" max="0.995575" rms="0.144299"/>
+				</waveblock>
+				<waveblock start="9974651">
+					<pcmaliasblockfile summaryfile="e08082b6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="10223616" aliaslen="262144" aliaschannel="1" min="-0.996277" max="0.999969" rms="0.198255"/>
+				</waveblock>
+				<waveblock start="10236795">
+					<pcmaliasblockfile summaryfile="e0808390.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="10485760" aliaslen="262144" aliaschannel="1" min="-0.96579" max="0.843414" rms="0.163615"/>
+				</waveblock>
+				<waveblock start="10498939">
+					<pcmaliasblockfile summaryfile="e08086d4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="10747904" aliaslen="262144" aliaschannel="1" min="-0.975983" max="0.931946" rms="0.173028"/>
+				</waveblock>
+				<waveblock start="10761083">
+					<pcmaliasblockfile summaryfile="e08088de.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11010048" aliaslen="262144" aliaschannel="1" min="-1.0" max="0.993103" rms="0.17001"/>
+				</waveblock>
+				<waveblock start="11023227">
+					<pcmaliasblockfile summaryfile="e0808406.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11272192" aliaslen="262144" aliaschannel="1" min="-0.73938" max="0.825439" rms="0.168058"/>
+				</waveblock>
+				<waveblock start="11285371">
+					<pcmaliasblockfile summaryfile="e0808cbf.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11534336" aliaslen="262144" aliaschannel="1" min="-0.773865" max="0.837189" rms="0.140329"/>
+				</waveblock>
+				<waveblock start="11547515">
+					<pcmaliasblockfile summaryfile="e080821e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="11796480" aliaslen="262144" aliaschannel="1" min="-0.476898" max="0.349884" rms="0.072608"/>
+				</waveblock>
+				<waveblock start="11809659">
+					<pcmaliasblockfile summaryfile="e0808e65.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12058624" aliaslen="262144" aliaschannel="1" min="-0.571106" max="0.606537" rms="0.085299"/>
+				</waveblock>
+				<waveblock start="12071803">
+					<pcmaliasblockfile summaryfile="e0808959.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12320768" aliaslen="262144" aliaschannel="1" min="-0.778015" max="0.636871" rms="0.102344"/>
+				</waveblock>
+				<waveblock start="12333947">
+					<pcmaliasblockfile summaryfile="e080830b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12582912" aliaslen="262144" aliaschannel="1" min="-0.481079" max="0.369049" rms="0.081245"/>
+				</waveblock>
+				<waveblock start="12596091">
+					<pcmaliasblockfile summaryfile="e0808c6f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="12845056" aliaslen="262144" aliaschannel="1" min="-0.447754" max="0.326019" rms="0.063132"/>
+				</waveblock>
+				<waveblock start="12858235">
+					<pcmaliasblockfile summaryfile="e08080d7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-07-19 Christ You Came For All\Mixdown.wav" aliasstart="13107200" aliaslen="262144" aliaschannel="1" min="-0.330475" max="0.318909" rms="0.054155"/>
+				</waveblock>
+				<waveblock start="13120379">
+					<simpleblockfile filename="e08004ea.au" len="143594" min="-0.272186" max="0.250336" rms="0.049619"/>
+				</waveblock>
+				<waveblock start="13263973">
+					<simpleblockfile filename="e0800027.au" len="143594" min="-0.093964" max="0.088409" rms="0.019284"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
